@@ -3,10 +3,10 @@
 void fxn() {
     char a;
     scanf("%c",&a);
-    printf("You entered: %c",a)
+    printf("You entered: %c",a);
 }
 
 int main() {
-    fxn()
+    fxn();
     return 0;
 }
