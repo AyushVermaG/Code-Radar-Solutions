@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void fxn() {
-    char a[];
+    char a[100];
     scanf("%s",&a);
     printf("You entered: %s",a)
 }
