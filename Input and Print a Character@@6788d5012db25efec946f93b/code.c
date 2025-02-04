@@ -1,12 +1,12 @@
 #include <stdio.h>
 
-char* welcome() {
+char fxn() {
     char a;
     scanf("%s",&a);
     printf("You entered: %s",a)
 }
 
 int main() {
-    printf("%s", welcome());
+    printf("%s", fxn());
     return 0;
 }
