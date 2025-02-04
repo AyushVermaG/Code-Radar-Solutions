@@ -7,6 +7,6 @@ char fxn() {
 }
 
 int main() {
-    printf("%s", fxn());
+    fxn()
     return 0;
 }
