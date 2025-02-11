@@ -10,6 +10,6 @@ int main() {
     else if (z>y && z>x )
     {printf("%d",z);}
     
-    else{printf("%d",a);}
+    else{printf("%d",x);}
     return 0;
 }
