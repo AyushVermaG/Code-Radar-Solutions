@@ -9,6 +9,6 @@ int main() {
     {printf("Digit");}
     else if(isalpha(a))
     {printf("Consonant");}
-    else{printf("Speical Character");}
+    else{printf("Special Character");}
     return 0;
 }
