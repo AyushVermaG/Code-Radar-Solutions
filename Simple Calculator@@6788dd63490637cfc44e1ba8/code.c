@@ -17,7 +17,7 @@ int main(){
         d=a*b;
         printf("%f",d);
         break;
-        case "/":
+        case '/':
         d=a/b;
         printf("%f",d);
         break;
