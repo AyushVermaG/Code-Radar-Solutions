@@ -21,7 +21,6 @@ int main(){
         if(b!=0){
         d=a/b;
         printf("%d",&d);}
-        break;
         else{printf("error");}
         break;
         default:
