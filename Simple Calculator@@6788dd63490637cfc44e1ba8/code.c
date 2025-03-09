@@ -22,7 +22,7 @@ int main(){
         d=a/b;
         printf("%d",&d);}
         break;
-        else{printf("error")}
+        else{printf("error");}
         break;
         default:
         printf("error");
