@@ -7,10 +7,10 @@ int main(){
         for(b=2;b=a/2;b++){
             if(a/b==0){
                 printf("Not Prime");
-                break
+                break;
             }
             else{
-                c+=1
+                c+=1;
             }
         if(c==((a/2)-1)){
             printf("Prime");
